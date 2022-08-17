@@ -1,5 +1,5 @@
 {
-  "name": "raganork-md", 
+  "name": "kakashi", 
   "version": "3.0.1",
   "description": "Raganork whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "roni",
+  "developer": "@roni",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
